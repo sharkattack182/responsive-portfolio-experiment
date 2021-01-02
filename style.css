@@ -17,3 +17,12 @@ body {
     margin: 0;
     text-align: right;
 }
+
+.html-box {
+    background-color: blue;
+    padding: 50px;
+}
+
+.col-lg-10, .html-display{
+    margin: 0 auto;
+}
