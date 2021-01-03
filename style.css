@@ -26,3 +26,8 @@ body {
 .col-lg-10, .html-display{
     margin: 0 auto;
 }
+
+.text-right {
+    text-align: left;
+}
+
